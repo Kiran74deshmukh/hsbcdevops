@@ -2,4 +2,4 @@
 
 X=200
 Y=100
-Main=(X+Y)
+Print=(X+Y)
